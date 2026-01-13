@@ -34,4 +34,5 @@ Algorithm :
    - Read the numbers
    - Compare the Number using the "if" command ( if a>b : , else :)
    - Display the result
+
    Conclusion : The Basics Introduction to Python was successfully demonstrated . 

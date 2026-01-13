@@ -16,7 +16,7 @@ Theory : The Following Points were covered during the Lecture :
 5) To calculate the area of circle by implementing : import math function and subsequently by using math.pi (area = math.pi * r**2)
 6) To calculate Log Values by implementing : import math function and by using log10(10) [log 10 to base 10]
 7) To calculate the Trignometric Value by implementing : import math function and by using math.sin(math.pi/3) - sin(60)
-8) To compare Two numbers : if function (if a>b : , else:)
+8) To compare Two numbers : if function (if a>b (Condition for boolean value True) : , else:(Condition for boolean value False))
 
 Algorithm : 
 1) Calculator
@@ -27,12 +27,12 @@ Algorithm :
 2) Area of circle
    - Input The Radius of the Circle
    - Read the Value
-   - perform the Calculations for calculating the area of Circle ( math.pi*R**2)
+   - perform the Calculations for calculating the area of Circle (math.pi*R**2)
    - Display the Result
 3) Compare the Two Numbers
    - Input the two Numbers from the user
    - Read the numbers
-   - Compare the Number using the "if" command ( if a>b : , else :)
+   - Compare the Number using the "if" command ( if a>b : (Condition for boolean value True) , else :(Condition for boolean value False))
    - Display the result
 
    Conclusion : The Basics Introduction to Python was successfully demonstrated . 

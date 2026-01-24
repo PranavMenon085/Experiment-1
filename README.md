@@ -22,7 +22,7 @@ Algorithm :
 1) Calculator
    - Input the two Numbers
    - Read the two Numbers
-   - Perform The arithmatic operations on the two Numbers ( a+b - Addition , a-b - Subtraction, a*b - Multiplicaation , a/b - Division and a**b - Exponents)
+   - Perform The arithmatic operations on the two Numbers ( a+b - Addition , a-b - Subtraction, a*b - Multiplication , a/b - Division and a**b - Exponents)
    - Display the Result
 2) Area of circle
    - Input The Radius of the Circle
